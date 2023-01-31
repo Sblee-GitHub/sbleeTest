@@ -1,0 +1,15 @@
+D:\vs src\githubTest\githubTest\bin\Debug\net6.0\githubTest.exe
+D:\vs src\githubTest\githubTest\bin\Debug\net6.0\githubTest.deps.json
+D:\vs src\githubTest\githubTest\bin\Debug\net6.0\githubTest.runtimeconfig.json
+D:\vs src\githubTest\githubTest\bin\Debug\net6.0\githubTest.dll
+D:\vs src\githubTest\githubTest\bin\Debug\net6.0\githubTest.pdb
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.csproj.AssemblyReference.cache
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.AssemblyInfoInputs.cache
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.AssemblyInfo.cs
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.csproj.CoreCompileInputs.cache
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.dll
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\refint\githubTest.dll
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.pdb
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\githubTest.genruntimeconfig.cache
+D:\vs src\githubTest\githubTest\obj\Debug\net6.0\ref\githubTest.dll
